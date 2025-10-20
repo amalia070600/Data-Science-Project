@@ -10,19 +10,4 @@ This reposotiry serves as a collection of my Data Science projects, from explora
   <li><h4>Libraries  : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow </h4></li>
 </ul>
 
-<h1>EDA Project</h1>
-<ul>
-  <li></li>
-</ul>
-
-<h1>Machine Learning Project</h1>
-<ul>
-  <li></li>
-</ul>
-
-<h1>Deep Learning Project</h1>
-<ul>
-  <li></li>
-</ul>
-
 <h5>Author : Amalia Sanyoto || amaliasyt@gmail.com</h5>
