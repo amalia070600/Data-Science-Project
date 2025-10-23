@@ -10,4 +10,7 @@ This reposotiry serves as a collection of my Data Science projects, from explora
   <li><h4>Libraries  : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow </h4></li>
 </ul>
 
-<h5>Author : Amalia Sanyoto || amaliasyt@gmail.com</h5>
+<h1>Data Analysis</h1>
+<ul>
+  <li><h4><a href="https://github.com/amalia070600/Analysis-Earthquake-Events-in-Indonesia-2008-2023.git">Analysis-Earthquake-Events-in-Indonesia-2008-2023</a></h4></li>
+</ul>
