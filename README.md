@@ -1,4 +1,4 @@
-# Data-Science-Project
+# Data Science Portofolio
 
 <h1>Welcome</h1>
 This reposotiry serves as a collection of my Data Science projects, from exploratory to deep learning aplications.
