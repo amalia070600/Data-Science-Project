@@ -1,16 +1,17 @@
-# Data Science Portofolio
+# Data Science Portfolio
 
-<h1>Welcome</h1>
-This reposotiry serves as a collection of my Data Science projects, from exploratory to deep learning aplications.
+## Welcome
+This repository serves as a collection of my Data Science projects, ranging from exploratory data analysis to machine learning and deep learning applications.
 
-<h1>Skill and Tools</h1>
-<ul>
-  <li><h4>Languages  : Python, SQL </h4></li>
-  <li><h4>Tools      : Google Colab </h4></li>
-  <li><h4>Libraries  : Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow </h4></li>
-</ul>
+## Skills and Tools
+- **Languages:** Python  
+- **Tools:** Google Colab  
+- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
 
-<h1>Data Analysis</h1>
-<ul>
-  <li><h4><a href="https://github.com/amalia070600/Analysis-Earthquake-Events-in-Indonesia-2008-2023.git">Analysis-Earthquake-Events-in-Indonesia-2008-2023</a></h4></li>
-</ul>
+## Data Analysis Projects
+- [**Analysis of Earthquake Events in Indonesia (2008–2023)**](https://github.com/amalia070600/Analysis-Earthquake-Events-in-Indonesia-2008-2023)  
+  Exploratory data analysis on earthquake occurrences in Indonesia, including visualization of patterns and trends over time.
+
+## Machine Learning Projects
+- [**CO₂ Emission Prediction from Vehicle Specifications**](https://github.com/amalia070600/CO2-Emission-Prediction-from-Vehicle-Specifications)  
+  Regression modeling project to predict CO₂ emissions based on vehicle specifications and fuel consumption features.
