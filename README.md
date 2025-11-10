@@ -15,5 +15,6 @@ This repository serves as a collection of my Data Science projects, ranging from
 ## Machine Learning Projects
 - [**CO₂ Emission Prediction from Vehicle Specifications**](https://github.com/amalia070600/CO2-Emission-Prediction-from-Vehicle-Specifications)  
   Regression modeling project to predict CO₂ emissions based on vehicle specifications and fuel consumption features.
-- [**Predicting Stress Levels from Digital Lifestyle and Smartphone Usage Behavior**](https://github.com/amalia070600/Predicting-Stress-Levels-from-Digital-Lifestyle-and-Smartphone-Usage-Behavior)
+  
+- [**Predicting Stress Levels from Digital Lifestyle and Smartphone Usage Behavior**](https://github.com/amalia070600/Predicting-Stress-Levels-from-Digital-Lifestyle-and-Smartphone-Usage-Behavior)    
   Predict stress levels based on digital lifestyle and smartphone usage behavior
